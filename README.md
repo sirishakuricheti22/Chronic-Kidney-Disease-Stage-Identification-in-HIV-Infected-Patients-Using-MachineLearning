@@ -1,0 +1,2 @@
+# Chronic-Kidney-Disease-Stage-Identification-in-HIV-Infected-Patients-Using-MachineLearning
+This project aims to help the doctors identify the stage of Chronic Kidney Disease in patients who are infected with HIV, by using machine learning. HIV-infected patients are at a higher risk of developing kidney problems. By analyzing medical data such as blood test results, age, and other health factors.  
